@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         
         <h1> 
-          Victor scoreggino!
+          Weather App React
           </h1>
         
         
